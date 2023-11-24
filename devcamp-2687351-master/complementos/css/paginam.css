@@ -1,0 +1,45 @@
+body
+{
+    background-color: aqua;
+}
+#menu{
+    background-color: #070e40 !important;
+
+}
+#textom{
+    color: white !important;
+    margin-left: 465px;
+    }
+
+    #card1{
+        margin-left: 230px;
+        margin-top: 78px;
+    }
+    #card2{
+        margin-left: 657px !important;
+        margin-top: -312px;
+    }
+
+.card-img-top{
+    width: 100px;
+}
+
+#img1{
+    width: 166px;
+    margin-left: 48px;
+}
+#img2{
+    width: 170px;
+    margin-left: 47px;
+}
+
+#table{
+    margin-top: 61px;
+width: 873px;
+margin-left: 202px;
+}
+
+#titulo{
+    margin-left: 538px;
+    margin-top: 28px;
+}

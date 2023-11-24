@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Agenda</title>
+</head>
+<body>
+  <h1>Agenda</h1>
+
+  <ul>
+    {{#each agendas}}
+      <li>
+        <strong>Fecha:</strong> {{fecha}}
+        <strong>Hora:</strong> {{hora}}
+        <strong>Profesional:</strong> {{profesional}}
+      </li>
+    {{/each}}
+  </ul>
+</body>
+</html>
